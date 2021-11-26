@@ -1,0 +1,12 @@
+\[a]{
+	Lorem ipsum dolor sit amet, consectetur adipiscing elit.
+	\[b]{
+		Donec posuere volutpat augue id interdum.
+		}
+	\[c]{In line test}
+	\[d]{So now i can write \bbold \\ \ba text}
+}
+\[p]{
+	Tabs are irellevant
+	\ma^2+b^2=c^2	
+}
